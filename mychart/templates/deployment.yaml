@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: DeploymentFIND_ME
 metadata:
   name: {{ include "mychart.fullname" . }}
   labels:
